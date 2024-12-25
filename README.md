@@ -118,10 +118,9 @@ FikFap features short-form -- content ranging from creative videos to trending c
 <li>Download Fikfap APK from the official site.</li>
 <li>Install the app on your Android or iOS device.</li>
 <li>Sign up, log in, and start creating or exploring!</li>
-</ol>!
+</ol>
 
-
-Fikfap is your go-to platform for video content creators, trend enthusiasts, and social media lovers. Stay ahead with the Fikfap latest version and experience the future of short-form video apps
+! **Fikfap** is your go-to platform for video content creators, trend enthusiasts, and social media lovers. Stay ahead with the Fikfap latest version and experience the future of short-form video apps
 
 ## Final Thoughts
 
