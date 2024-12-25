@@ -5,7 +5,7 @@
 If you're looking for the ultimate app to explore short video content, FikFap APK is the perfect solution for you. Designed for Android users, this app combines creativity, entertainment, and social networking in a unique and engaging way. Here's everything you need to know about FikFap APK v4.1 (2025), its features, how to download it, and why it’s a must-have app.
 
 <div style="display: flex; justify-content: center;">
-    <div style="flex-basis: 45%;">
+    <div style="flex-basis: 40%;">
         <a href="https://www.fikfak.net/fikfap-apk/" target="_blank" rel="follow">
             <img src="https://www.fikfak.net/wp-content/uploads/2024/07/Download-APK.gif" alt="Download FikFap APK" style="width: 100%;">
         </a>
@@ -15,7 +15,7 @@ If you're looking for the ultimate app to explore short video content, FikFap AP
 ---
 
 <div style="display: flex; justify-content: center;">
-    <div style="flex-basis: 45%;">
+    <div style="flex-basis: 100%;">
         <a href="https://www.fikfak.net/fikfap-apk/" target="_blank" rel="follow">
             <img src="https://www.fikfak.net/wp-content/uploads/2024/12/fikfap-download.jpg" alt="FikFap App Screeshorts" style="width: 100%;">
         </a>
