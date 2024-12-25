@@ -90,7 +90,7 @@ Follow the on-screen instructions to complete the installation.
 
 **1. Is FikFap APK safe to download?**
 
-Yes, as long as you download it from a trusted source like the official website or verified repositories.
+**Yes,** as long as you download it from a trusted source like the official website or verified repositories.
 
 **2. Can I use FikFap APK on iOS devices?**
 
@@ -98,7 +98,7 @@ Currently, FikFap is only available for Android devices.
 
 **3. Is the app free to use?**
 
-Yes, FikFap is completely free with no hidden costs or subscriptions.
+**Yes,** FikFap is completely free with no hidden costs or subscriptions.
 
 **4. What type of content is available on FikFap?**
 
