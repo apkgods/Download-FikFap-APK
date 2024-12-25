@@ -41,6 +41,7 @@ Add filters, effects, and music to make your content stand out.
 Swipe through an endless feed of videos tailored to your preferences.
 
 Discover trending, creative, and engaging content.
+
 **3. Social Platform**
 
 Interact with other users by liking, commenting, and sharing videos.
