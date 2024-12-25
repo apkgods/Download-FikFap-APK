@@ -6,7 +6,7 @@ If you're looking for the ultimate app to explore short-form adult video content
 
 <div style="display: flex; justify-content: center;">
     <div style="flex-basis: 45%;">
-        <a href="https://www.fikfak.net/fikfap-apk/">
+        <a href="https://www.fikfak.net/fikfap-apk/"target="_blank">
             <img src="https://www.fikfak.net/wp-content/uploads/2024/07/Download-APK.gif" alt="Download FikFap APK" style="width: 100%;">
         </a>
     </div>
@@ -16,7 +16,7 @@ If you're looking for the ultimate app to explore short-form adult video content
 
 <div style="display: flex; justify-content: center;">
     <div style="flex-basis: 45%;">
-        <a href="https://www.fikfak.net/fikfap-apk/">
+        <a href="https://www.fikfak.net/fikfap-apk/"target="_blank">
             <img src="https://www.fikfak.net/wp-content/uploads/2024/12/fikfap-download.jpg" alt="FikFap App Screeshorts" style="width: 100%;">
         </a>
     </div>
