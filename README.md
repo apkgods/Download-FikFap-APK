@@ -9,7 +9,7 @@ If you're looking for the ultimate app to explore short-form adult video content
 <div style="display: flex; justify-content: center;">
     <div style="flex-basis: 50%;">
         <a id="toggle-link2" href="https://ejitsirdosha.net/4/7896822](https://www.fikfak.net/fikfap-apk/)">
-            <img src="[https://fikfap.xyz/images/alternative.gif](https://www.fikfak.net/wp-content/uploads/2024/07/Download-APK.gif)" alt="Download FikFap APK" style="width: 100%;">
+            <img src="https://www.fikfak.net/wp-content/uploads/2024/07/Download-APK.gif" alt="Download FikFap APK" style="width: 100%;">
         </a>
     </div>
 </div>
